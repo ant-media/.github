@@ -1,4 +1,4 @@
-# Welcome to Ant Media.
+# Welcome to Ant Media
 
 Our community powers us to maintain a powerful and highly scalable live video streaming platform i.e. Ant Media Server. It is designed to provide you with everything you need to create and broadcast live video content over the internet, whether you're looking to host a live event, run a video-on-demand service, or stream your own content to a global audience.
 
